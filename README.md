@@ -1,8 +1,9 @@
-# Learn Flutter - Login & Shared Preference
-
+# Learn Flutter - ValueNotifier, Bottom Nav & Dropdown
 A new Flutter project.
 
 ## Getting Started
 
-Splash Screen -> Login Page -> Home Screen
+* ValueNotifier in screen_home (the commented floatingActionButton is required to make it work properly)
+* Botton navigator in main
+* Dropdown in screen_search
 
