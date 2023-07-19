@@ -6,3 +6,7 @@ A new Flutter project.
 
 Splash Screen -> Login Page -> Home Screen
 
+## Adding a new dependency
+
+[Ctrl + shift + P] -> [Pubspec assist - Add/update dependency dev dependencies] -> [Enter name of dpendency] -> [Press enter]
+
