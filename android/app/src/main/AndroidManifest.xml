@@ -1,7 +1,6 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.sample_project">
-   <application
-        android:label="sample_project"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application
+        android:label="learn_bloc"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

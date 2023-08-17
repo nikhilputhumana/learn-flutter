@@ -1,12 +1,16 @@
-# Learn Flutter - Login & Shared Preference
+# Learn BLOC
 
 A new Flutter project.
 
 ## Getting Started
 
-Splash Screen -> Login Page -> Home Screen
+This project is a starting point for a Flutter application.
 
-## Adding a new dependency
+A few resources to get you started if this is your first Flutter project:
 
-[Ctrl + shift + P] -> [Pubspec assist - Add/update dependency dev dependencies] -> [Enter name of dpendency] -> [Press enter]
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
